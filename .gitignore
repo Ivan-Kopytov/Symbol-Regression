@@ -1,0 +1,17 @@
+.feynman/
+.venv/
+venv/
+.idea/
+.vscode/
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.dist/
+build/
+dist/
+
+.DS_Store
+EOF
